@@ -1,0 +1,28 @@
+{
+  "name": "cl-polymer-mode-switcher",
+  "version": "1.0.0",
+  "description": "Claiment Polymer Mode Switcher",
+  "main": "cl-polymer-mode-switcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claimentrakgwale/cl-polymer-mode-switcher.git"
+  },
+  "keywords": [
+    "Polymer"
+  ],
+  "author": "Claiment Thabiso Rakgwale",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/claimentrakgwale/cl-polymer-mode-switcher/issues"
+  },
+  "homepage": "https://github.com/claimentrakgwale/cl-polymer-mode-switcher#readme",
+  "dependencies": {
+    "@polymer/decorators": "^3.0.0",
+    "@polymer/paper-tabs": "^3.1.0",
+    "@polymer/polymer": "^3.5.1",
+    "cl-polymer-element-helpers": "^1.0.1"
+  }
+}
